@@ -342,7 +342,7 @@ h6, .h6 {
   font-size: 2.5rem;
   font-style: normal;
   font-weight: 200;
-  padding-bottom: 50px;
+
   line-height: 1; }
   
 
@@ -5106,11 +5106,11 @@ button.bg-dark:focus {
   padding-left: 2.25rem !important; }
 
 .p-5 {
-  padding: 4.5rem !important; }
+  padding: 0.1rem !important; }
 
 .pt-5,
 .py-5 {
-  padding-top: 4.5rem !important; }
+  padding-top: 0.5rem !important; }
 
 .pr-5,
 .px-5 {
